@@ -40,4 +40,11 @@ The objective of this project is to perform end-to-end e-commerce analytics and 
 - Customer segmentation analysis revealed distinct high-value, medium-value, and low-value customer groups based on spending behavior.
 
 # Dashboard Preview
+Executive Overview:
+<img width="1292" height="732" alt="Executive Overview" src="https://github.com/user-attachments/assets/346e1dff-b765-4258-a7f3-41a8afe2bb76" />
 
+Customer Analysis:
+<img width="1292" height="732" alt="Customer Analysis" src="https://github.com/user-attachments/assets/338d71d0-8540-4348-89f0-2638aa06633f" />
+
+Logistics & Seller Analysis:
+<img width="1295" height="732" alt="Logistics   Seller Analysis" src="https://github.com/user-attachments/assets/920549e4-8d0e-4c05-bccd-26a3d6b77746" />
