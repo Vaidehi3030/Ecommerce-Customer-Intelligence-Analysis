@@ -41,10 +41,10 @@ The objective of this project is to perform end-to-end e-commerce analytics and 
 
 # Dashboard Preview
 Executive Overview:
-<img width="1292" height="732" alt="Executive Overview" src="https://github.com/user-attachments/assets/346e1dff-b765-4258-a7f3-41a8afe2bb76" />
+<img width="1213" height="685" alt="Executive Overview" src="https://github.com/user-attachments/assets/4eda5e14-b898-4e26-bb26-187912555d6b" />
 
 Customer Analysis:
-<img width="1292" height="732" alt="Customer Analysis" src="https://github.com/user-attachments/assets/338d71d0-8540-4348-89f0-2638aa06633f" />
+<img width="1210" height="685" alt="Customer Analysis" src="https://github.com/user-attachments/assets/69501d64-12ff-458d-8e28-c75c1e597f85" />
 
 Logistics & Seller Analysis:
-<img width="1295" height="732" alt="Logistics   Seller Analysis" src="https://github.com/user-attachments/assets/920549e4-8d0e-4c05-bccd-26a3d6b77746" />
+<img width="1210" height="683" alt="Logistics   Seller Analysis" src="https://github.com/user-attachments/assets/e93395fb-5ca9-48ca-9687-58d1ab630f14" />
